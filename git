@@ -1,0 +1,21 @@
+1: to create a new branch
+git checkout -b branch-name
+
+2 : go to other branch 
+ git checkout branch-name
+
+3: pull the main branch code 
+git pull origin mainbranch -name
+
+4: push code to branch 
+git push origin branch-name
+
+5: to commit 
+git commit -m "done with bugs"
+
+6: to stage the code 
+git add .
+
+create new branch => pull main branch => stages => commit => push code to branch 
+
+new-branch => add =>commit=>push
